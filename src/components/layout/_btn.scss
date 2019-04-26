@@ -1,0 +1,10 @@
+.btn-ui{
+  border: none;
+  &.co {
+    background-color: $mainColor;
+    color: #FFF;
+  }
+  &.big {
+    padding: 8px 30px;
+  }
+}
